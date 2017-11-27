@@ -18,6 +18,7 @@
   "homepage": "https://github.com/mgmcintyre777/mySQL-storefront#readme",
   "dependencies": {
     "clear": "0.0.1",
+    "cli-table": "^0.3.1",
     "inquirer": "^4.0.0",
     "mysql": "^2.15.0"
   }
